@@ -10,9 +10,9 @@ function home() {
             <main>
                 <h1>HOME</h1>
                 <div>
-                    <img src="rest-rant\public\images\photo-1490474504059-bf2db5ab2348.avif" alt="Chia Fruit Shake" />
+                    <img src="rest-rant\public\css\images\anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg" alt="Raspberry Cake" />
                     <div>
-                        Photo by <a href="AUTHOR_LINK">Brenda Godinez</a> on <a href="UNSPLASH_LINK">Unsplash</a>
+                        Photo by <a href="https://unsplash.com/@anna_tukhfatullina?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Anna Tukhfatullina</a> on <a href="https://unsplash.com/">Unsplash</a>
                     </div>
                 </div>
                 <a href="/places">
